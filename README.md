@@ -1,4 +1,4 @@
-## Group Name: SOS | Significant Other Chatbot (aka SO_Chatbot)
+## Significant Other Chatbot (aka SO_Chatbot)
 
 
 | Name | Username |
