@@ -1,3 +1,15 @@
+# How to Run (detailed steps listed in README.md)
+
+# Install the following dependencies:
+#   pip install spacy
+#   pip install pywebio
+#   pip install werkzeug
+#   pip install flask
+#   python -m spacy download en_core_web_sm 
+# If you would like to use a virtual environment instead, please look at README.
+# Run the chatbot.py file.
+# Open the link from the terminal (should look like http://192.168.1.102:8080/).
+
 from pywebio.input import input, TEXT
 from pywebio.output import put_text
 import spacy
