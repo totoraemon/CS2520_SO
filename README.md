@@ -26,8 +26,8 @@
 
 **Installing Virtual Environment**
 1. Ensure you have Python installed.
-2. Run python -m venv venv in your terminal.
-3. Run venv\Scripts\activate in your terminal.
+2. For Windows, run 'python -m venv venv' in your terminal.
+3. For Windows, run 'venv\Scripts\activate' in your terminal.
 4. Install all the dependencies shown in **Dependencies**.
 5. Run 'python chatbot.py' in the terminal.
 5. Open the link from the terminal (should look like http://192.168.1.102:8080/).
